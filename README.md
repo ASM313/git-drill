@@ -1,0 +1,1 @@
+## First Assignment of Data Science Industry Ready Projects
